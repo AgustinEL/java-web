@@ -1,0 +1,15 @@
+http://joseltoro.blogspot.com/2020/07/crud-spring-mvc.html
+
+https://www.codejava.net/download-attachment?fid=364
+
+
+tutorial de 15 minutos super practico sobre Crud:
+
+https://www.youtube.com/watch?v=D3HER9EGQSI
+
+
+JSP:
+https://www.tutorialspoint.com/jsp/jstl_core_choose_tag.htm
+
+JSP+mysql+angular
+https://www.youtube.com/watch?v=O13X14TGtm8
